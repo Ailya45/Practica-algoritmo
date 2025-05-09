@@ -1,0 +1,1 @@
+Actualización del script de Python, añadiendo las funciones de cámara y ubicación. Utilizando el framework Flask.
